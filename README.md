@@ -1,2 +1,2 @@
 # Basic-Python
-How  i Learn basic Python, concepts: variables, data structures, and control flow
+How i lean basic Python project using Google Colab to learn fundamental programming concepts.
